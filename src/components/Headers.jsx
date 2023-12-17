@@ -14,6 +14,7 @@ const Headers = () => {
           <span className="search_icons">
             <FiSearch />
           </span>
+          
           <input
             type="search"
             className="search_input"

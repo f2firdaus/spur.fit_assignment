@@ -7,6 +7,7 @@ const Home = () => {
   const allTableData = Array.from({ length: 10 }, (_, index) => ({
     id: index + 1,
   }));
+  
 
   return (
     <>
